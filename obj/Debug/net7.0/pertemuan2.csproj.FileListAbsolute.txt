@@ -1,0 +1,14 @@
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\bin\Debug\net7.0\pertemuan2.exe
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\bin\Debug\net7.0\pertemuan2.deps.json
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\bin\Debug\net7.0\pertemuan2.runtimeconfig.json
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\bin\Debug\net7.0\pertemuan2.dll
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\bin\Debug\net7.0\pertemuan2.pdb
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\pertemuan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\pertemuan2.AssemblyInfoInputs.cache
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\pertemuan2.AssemblyInfo.cs
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\pertemuan2.csproj.CoreCompileInputs.cache
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\pertemuan2.dll
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\refint\pertemuan2.dll
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\pertemuan2.pdb
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\pertemuan2.genruntimeconfig.cache
+C:\Users\asus ROG\Desktop\Folder Baru\pertemuan2\obj\Debug\net7.0\ref\pertemuan2.dll
